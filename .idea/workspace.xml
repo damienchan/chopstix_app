@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6e25f01a-2af5-4d58-9343-4726232056b0" name="Default" comment="">
       <change type="DELETED" beforePath="C:\Users\Damien\RubymineProjects\chopstix_app\Gemfile.lock" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/chopstix_app.iml" afterPath="$PROJECT_DIR$/.idea/chopstix_app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="chopstix_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,7 +30,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="52" selection-start="1053" selection-end="1053" vertical-scroll-proportion="0.64725643">
+            <state line="36" column="49" selection-start="1090" selection-end="1090" vertical-scroll-proportion="0.68533033">
               <folding />
             </state>
           </provider>
@@ -58,8 +54,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -419,7 +415,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="52" selection-start="1053" selection-end="1053" vertical-scroll-proportion="0.64725643">
+        <state line="36" column="49" selection-start="1090" selection-end="1090" vertical-scroll-proportion="0.68533033">
           <folding />
         </state>
       </provider>
