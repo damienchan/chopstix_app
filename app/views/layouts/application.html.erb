@@ -4,6 +4,7 @@
   <title>ChopstixApp</title>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= stylesheet_link_tag "slider" %>
+
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag "slider" %>
   <%= csrf_meta_tags %>
@@ -27,7 +28,7 @@
         <main class="HolyGrail-content">
 
           <body onload="Slider();">
-          <%= yield %>
+            <%= yield %>
           </body>
 
         </main>
