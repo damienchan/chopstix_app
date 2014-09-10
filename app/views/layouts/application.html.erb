@@ -11,10 +11,10 @@
 
   <div id='cssmenu'>
     <ul>
-      <li class='active'><a href='#'><span>Home</span></a></li>
-      <li><a href='#'><span>About Us</span></a></li>
-      <li><a href='#'><span>Menu</span></a></li>
-      <li class='last'><a href='#'><span>Contact Us</span></a></li>
+      <li class='active'><a href='/'><span>Home</span></a></li>
+      <li><a href='/pages/about/'><span>About Us</span></a></li>
+      <li><a href='/pages/menu/'><span>Menu</span></a></li>
+      <li class='last'><a href='/pages/contact/'><span>Contact Us</span></a></li>
     </ul>
   </div>
 
@@ -22,19 +22,16 @@
       <head>
         <title>Chopstix Chinese Restaurant | <%= @title %></title>
       </head>
-
-
       <div class="HolyGrail-body">
         <main class="HolyGrail-content">
-
-          <body onload="Slider();">
-            <%= yield %>
-          </body>
-
+           <%= yield %>
         </main>
         <nav class="HolyGrail-nav"></nav>
         <aside class="HolyGrail-ads"></aside>
       </div>
-      <!--<footer>...</footer>-->
+      <footer>
+        <p>Copyright © 2014 | Damien Chan</p>
+      </footer>
   </body>
+
 </html>

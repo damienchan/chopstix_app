@@ -10,4 +10,7 @@ class PagesController < ApplicationController
   def about
     @title = "About"
   end
+  def Menu
+    @title = "Menu"
+  end
 end
