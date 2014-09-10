@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e25f01a-2af5-4d58-9343-4726232056b0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/pic4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/pic5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/pages/menu.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/about.html.erb" afterPath="$PROJECT_DIR$/app/views/pages/about.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/contact.html.erb" afterPath="$PROJECT_DIR$/app/views/pages/contact.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/home.html.erb" afterPath="$PROJECT_DIR$/app/views/pages/home.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/pages_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/pages_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/slider.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/slider.css.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -49,10 +40,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/pages/home.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="50" selection-start="478" selection-end="478" vertical-scroll-proportion="0.45212767">
+            <state line="15" column="50" selection-start="478" selection-end="478" vertical-scroll-proportion="-9.807693">
               <folding />
             </state>
           </provider>
@@ -76,10 +67,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slider.css.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="slider.css.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/slider.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="16" selection-start="1280" selection-end="1280" vertical-scroll-proportion="0.0">
+            <state line="82" column="18" selection-start="1637" selection-end="1637" vertical-scroll-proportion="0.6542373">
               <folding />
             </state>
           </provider>
@@ -139,8 +130,8 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/pages/menu.html.erb" />
         <option value="$PROJECT_DIR$/app/views/pages/contact.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/slider.css.scss" />
         <option value="$PROJECT_DIR$/app/views/pages/home.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/slider.css.scss" />
       </list>
     </option>
   </component>
@@ -756,16 +747,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/slider.css.scss">
+    <entry file="file://$PROJECT_DIR$/app/views/pages/home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="16" selection-start="1280" selection-end="1280" vertical-scroll-proportion="0.0">
+        <state line="15" column="50" selection-start="478" selection-end="478" vertical-scroll-proportion="-9.807693">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/pages/home.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/slider.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="50" selection-start="478" selection-end="478" vertical-scroll-proportion="0.45212767">
+        <state line="82" column="18" selection-start="1637" selection-end="1637" vertical-scroll-proportion="0.6542373">
           <folding />
         </state>
       </provider>
