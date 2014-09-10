@@ -24,6 +24,20 @@ h1 {
   font-family: 'Carrois Gothic', sans-serif;
   text-align: center;
 }
+
+h2 {
+  margin: 1em 0 1em;
+  padding: 0 0 40 0;
+  color: #6B5344;
+  font-weight: bold;
+  position: relative;
+  text-shadow: 0 2px 0 rgba(255,255,255,0.5);
+  font-size: 1.5em;
+  line-height: 1em;
+  font-family: 'Carrois Gothic', sans-serif;
+  text-align: center;
+}
+
 .intro {
   font-family: "News Gothic W01", "Myriad Pro", Arial, sans-serif;
   font-weight: normal;
@@ -38,24 +52,12 @@ h1 {
 
 footer > p {
   color: #6a6a6a;
-  padding-top: 10px;
-  margin-bottom: 30px;
+  padding-top: 5px;
+  margin-bottom: 25px;
   font-size: 16px;
   text-align: center;
 }
 
-//h2 {
-//  margin: 1em 0 1em;
-//  padding: 0 0 5px 0;
-//  color: #6B5344;
-//  font-weight: bold;
-//  position: relative;
-//  text-shadow: 0 2px 0 rgba(255,255,255,0.5);
-//  font-size: 3em;
-//  line-height: 40px;
-//  font-family: 'Carrois Gothic', sans-serif;
-//  text-align: center;
-//}
 
 .about_pic > img{
   display:block;
@@ -72,10 +74,10 @@ footer > p {
 }
 
 .slider{
-  //width:60%;
-  //height:35%;
-  width:800px;
-  height:350px;
+  width:60%;
+  height:35%;
+  //width:800px;
+  //height:350px;
   overflow:hidden;
   margin:30px auto;
   background-image:image-url("loader.gif");
@@ -87,6 +89,9 @@ footer > p {
   background-image:image-url("shadow.png");
   background-repeat:no-repeat;
   background-position:top;
+  //width:65%;
+  //height:17%;
+  //overflow:hidden;
   width:864px;
   height:144px;
   margin:-60px auto;
@@ -188,7 +193,6 @@ footer > p {
     /* 12em is the width of the columns */
     flex: 0 0 18em;
     //color: #ecffff;
-    //background-image:image-url("loader.gif");
     background-image:image-url("wood-pattern.jpg");
     background-repeat: repeat-y;
     height:100%;
